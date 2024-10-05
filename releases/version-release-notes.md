@@ -1,8 +1,9 @@
 ---
 description: What's new?
+icon: newspaper
 ---
 
-# 🗞 Version Release Notes
+# Version Release Notes
 
 In `dotify`, there have been several releases made to this script. The first public version of this script, v0.4.0, is released on August 7, 2022. These changes include:
 

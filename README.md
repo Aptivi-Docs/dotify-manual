@@ -1,8 +1,9 @@
 ---
 description: Welcome to dotify!
+icon: hand-wave
 ---
 
-# 👋 Welcome!
+# Welcome!
 
 Welcome to `dotify`, which is a `bash` script that lets you generate the dotfile `git` repository and manage it. It's a reboot based on the older [dotman](https://github.com/Bhupesh-V/dotman) script created by the original developer, Bhupesh Varshney.
 

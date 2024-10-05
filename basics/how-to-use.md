@@ -1,8 +1,9 @@
 ---
 description: How do you use dotify?
+icon: question
 ---
 
-# ❓ How to use
+# How to use
 
 Running this script is so easy. Just run the script with no arguments to start the dashboard:
 
