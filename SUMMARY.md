@@ -16,5 +16,5 @@
 
 ***
 
-* [Report an issue](https://github.com/Aptivi/dotify/issues/new)
-* [Source code](https://github.com/Aptivi/dotify)
+* [Report an issue](https://gitlab.com/aptivi/powertools/linux/dotify/-/issues)
+* [Source code](https://gitlab.com/aptivi/powertools/linux/dotify)

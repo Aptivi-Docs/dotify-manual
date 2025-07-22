@@ -11,12 +11,13 @@ In `dotify`, there have been several releases made to this script. The first pub
 
 This version was released on August 8, 2022 to make the script more colorful and make some improvements.
 
-### Additions
+* <mark style="color:green;">Added dotfolders support</mark>
+* <mark style="color:green;">Find remote dotfiles</mark>
+* <mark style="color:yellow;">Some visual improvements</mark>
+* <mark style="color:yellow;">General improvements</mark>
 
-* Added dotfolders support
-* Find remote dotfiles
+## Version 0.4.2
 
-### Improvements
+This version was released on October 20th, 2024, to make the script shorter.
 
-* Some visual improvements
-* General improvements
+* <mark style="color:yellow;">Shortened the shell script</mark>
